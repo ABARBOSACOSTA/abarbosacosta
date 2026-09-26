@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello, I'm Aldeci Barbosa da Costa! 👋
 
-<!--
-**ABARBOSACOSTA/abarbosacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my professional profile. I am a versatile professional with over 10 years of experience in public speaking, media, and human development, now expanding my expertise into digital platforms, content classification, and AI alignment.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Core Competencies
+* **Public Speaking & Media:** Over a decade of stage experience, narrative clarity, and large-scale audience engagement.
+* **Content Classification & Structuring:** Rigorous evaluation, categorization, and quality control of textual and multimodal content.
+* **Writing & Rewriting:** Transforming complex or unstructured ideas into clear, engaging, and professional messages.
+
+---
+
+### 📂 Featured Repositories
+* [human-development-and-communication](https://github.com/abarbosacosta/human-development-and-communication): A curated collection of public speaking resources, communication frameworks, and behavioral content.
+
+---
+📫 **Get in Touch:** [Connect with me on professional networks and remote work platforms]
