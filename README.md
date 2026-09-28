@@ -1,5 +1,5 @@
 professional-profile 👋
-
+professional-profile
 Welcome to my professional profile. I am a versatile professional with over 10 years of experience in public speaking, media, and human development, now expanding my expertise into digital platforms, content classification, and AI alignment.
 
 ---
